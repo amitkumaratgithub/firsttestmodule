@@ -1,0 +1,24 @@
+{
+	"name": "firsttestmodule",
+	"version": "0.1.0",
+	"description": "A test node module",
+	"author": {
+		"name": "Amit Kumar",
+		"email": "amitkumar.node@gmail.com"
+	},
+	"website":{
+		"url": "localhost"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:amitkumaratgithub/firsttestmodule.git" 
+	},
+	"dependencies": {
+		"express": "2.x.x",
+		"mongojs": "0.4.3"
+	},
+	"engines": {
+		"node": "0.7.x",
+		"npm":  "1.1.x"
+	}
+}
